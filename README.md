@@ -214,15 +214,6 @@ Implement real-time dimension adaptation using AI.
 Optimize large number handling beyond decimal.
 Add support for non-numeric sequences (e.g., DNA bases).
 
-License
-This project is licensed under the MIT License. You’re free to use, modify, and share it, as long as you credit James Trageser for the original framework. See the LICENSE file for details.
-Acknowledgments
-
-James Trageser: For developing the Trageser Framework, a visionary blend of mathematics, physics, and cosmology.
-Open-Source Community: For inspiring secure, accessible cryptography.
-Giza Pyramid: For its geometric and resonant inspiration.
-Fibonacci and Phi: For their universal patterns guiding this system.
-
 Contact
 Have questions? Want to collaborate? Open an issue on GitHub or contact James Trageser via the repository. Let’s make the digital world quantum-proof together!
 

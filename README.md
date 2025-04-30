@@ -242,7 +242,7 @@ Contributions are welcome! To contribute:
 
 ## 📜 License
 
-Licensed under the **MIT License**. You’re free to use, modify, and share, provided you credit **James Trageser**. See the `LICENSE` file for details.
+Licensed under the **Apache 2.0 License**. See the `LICENSE` file for details.
 
 ---
 
